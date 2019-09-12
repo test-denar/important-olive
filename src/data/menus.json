@@ -1,0 +1,70 @@
+{
+    "main": [
+        {
+            "identifier": "layouts",
+            "title": "Page Layouts",
+            "url": "#",
+            "weight": 2
+        }
+    ],
+    "layouts": [
+        {
+            "identifier": "normal1",
+            "title": "Left Sidebar",
+            "weight": 1,
+            "url": "/left-sidebar"
+        },
+        {
+            "identifier": "normal2",
+            "title": "Right Sidebar",
+            "weight": 2,
+            "url": "/right-sidebar"
+        },
+        {
+            "identifier": "normal3",
+            "title": "No Sidebar",
+            "weight": 3,
+            "url": "/no-sidebar"
+        },
+        {
+            "identifier": "submenu",
+            "title": "Submenu",
+            "weight": 4,
+            "url": "#"
+        }
+    ],
+    "submenu": [
+        {
+            "identifier": "normal4",
+            "title": "Option One",
+            "weight": 1,
+            "url": "#"
+        },
+        {
+            "identifier": "normal5",
+            "title": "Option Two",
+            "weight": 2,
+            "url": "#"
+        },
+        {
+            "identifier": "normal6",
+            "title": "Option Three",
+            "weight": 3,
+            "url": "#"
+        },
+        {
+            "identifier": "normal7",
+            "title": "Option Four",
+            "weight": 4,
+            "url": "#"
+        }
+    ],
+    "footer": [
+        {
+            "identifier": "normal8",
+            "title": "Made with Stackbit",
+            "weight": 4,
+            "url": "https://www.stackbit.com"
+        }
+    ]
+}
